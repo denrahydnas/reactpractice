@@ -102,3 +102,21 @@ dist
 
 # TernJS port file
 .tern-port
+
+### VirtualEnv ###
+# Virtualenv
+# http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
+
+### vscode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride

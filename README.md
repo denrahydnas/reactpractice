@@ -1,2 +1,5 @@
 # reactpractice
-practice to do app in react
+
+
+react-task-tracker - follows along with Traversy Media React Crash Course 2021
+
